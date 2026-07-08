@@ -3,40 +3,151 @@
   "displayName": "Oslar_Pallete Set",
   "description": "Palette created by RhtyhmOwO",
   "version": "1.1",
-  "author": { "name": "RhtyhmOwO", "url": "https://x.com/rhythm_0w0" },
+  "author": {
+    "name": "RhtyhmOwO",
+    "url": "https://x.com/rhythm_0w0"
+  },
   "categories": [
     "Palettes"
   ],
   "contributes": {
     "palettes": [
-      { "id": "2bit-demichrome", "path": "./2bit-demichrome.gpl" },
-	  { "id": "blessing", "path": "./blessing.gpl" },
-	  { "id": "bloodmoon21", "path": "./bloodmoon21.gpl" },
-	  { "id": "calm-48", "path": "./calm-48.gpl" },
-	  { "id": "custodian-8", "path": "./custodian-8.gpl" },
-	  { "id": "gb-magnum", "path": "./gb-magnum.gpl" },
-	  { "id": "glomzy-06", "path": "./glomzy-06.gpl" },
-	  { "id": "glomzy-06-1x", "path": "./glomzy-06.png" },
-	  { "id": "golden-flame", "path": "./golden-flame.gpl" },
-	  { "id": "ink-crimson", "path": "./ink-crimson.gpl" },
-	  { "id": "lospec-2000", "path": "./lospec-2000.gpl" },
-	  { "id": "oil-6", "path": "./oil-6.gpl" },
-	  { "id": "punolite-plus-remake", "path": "./punolite-plus-remake.gpl" },
-	  { "id": "ry-32-1x", "path": "./ry-32-1x.png" },
-	  { "id": "sunset-red", "path": "./sunset-red.gpl" },
-	  { "id": "twilight-5", "path": "./twilight-5.gpl" },
-	  { "id": "resurrect-64", "path": "./resurrect-64.gpl" },
-	  { "id": "lospec500", "path": "./lospec500.gpl" },
-	  { "id": "Pink_pastel", "path": "./X.gpl" },
-	  { "id": "pear36", "path": "./pear36.gpl" },
-	  { "id": "endesga-32", "path": "./endesga-32.gpl" },
-	  { "id": "nature-31", "path": "./31.gpl" },
-	  { "id": "1bit-monitor-glow", "path": "./1bit-monitor-glow.gpl" },
-	  { "id": "sweetie-16", "path": "./sweetie-16.gpl"},
-	  { "id": "redorb12", "path": "./redorb12" },
-	  { "id": "menacing-sky", "path": "./menacing-sky" },
-	  { "id": "sotc12", "path": "./sotc12" },
-	  { "id": "slso8", "path": "./slso8" }
+      {
+        "id": "1bit-monitor-glow",
+        "path": "./1bit-monitor-glow.gpl"
+      },
+      {
+        "id": "2bit-demichrome",
+        "path": "./2bit-demichrome.gpl"
+      },
+      {
+        "id": "apollo",
+        "path": "./apollo.gpl"
+      },
+      {
+        "id": "blessing",
+        "path": "./blessing.gpl"
+      },
+      {
+        "id": "blk-nx64",
+        "path": "./blk-nx64.gpl"
+      },
+      {
+        "id": "bloodmoon21",
+        "path": "./bloodmoon21.gpl"
+      },
+      {
+        "id": "calm-48",
+        "path": "./calm-48.gpl"
+      },
+      {
+        "id": "custodian-8",
+        "path": "./custodian-8.gpl"
+      },
+      {
+        "id": "endesga-32",
+        "path": "./endesga-32.gpl"
+      },
+      {
+        "id": "gb-magnum",
+        "path": "./gb-magnum.gpl"
+      },
+      {
+        "id": "glomzy-06",
+        "path": "./glomzy-06.gpl"
+      },
+      {
+        "id": "glomzy-06-1x",
+        "path": "./glomzy-06-1x.png"
+      },
+      {
+        "id": "golden-flame",
+        "path": "./golden-flame.gpl"
+      },
+      {
+        "id": "ink-crimson",
+        "path": "./ink-crimson.ase"
+      },
+      {
+        "id": "ink-crimson",
+        "path": "./ink-crimson.gpl"
+      },
+      {
+        "id": "lospec-2000",
+        "path": "./lospec-2000.gpl"
+      },
+      {
+        "id": "lospec500",
+        "path": "./lospec500.gpl"
+      },
+      {
+        "id": "lowspec",
+        "path": "./lowspec.gpl"
+      },
+      {
+        "id": "menacing-sky",
+        "path": "./menacing-sky.gpl"
+      },
+      {
+        "id": "midnight-ablaze",
+        "path": "./midnight-ablaze.gpl"
+      },
+      {
+        "id": "nature-31",
+        "path": "./31.gpl"
+      },
+      {
+        "id": "oil-6",
+        "path": "./oil-6.gpl"
+      },
+      {
+        "id": "pear36",
+        "path": "./pear36.gpl"
+      },
+      {
+        "id": "Pink_pastel",
+        "path": "./X.gpl"
+      },
+      {
+        "id": "punolite-plus-remake",
+        "path": "./punolite-plus-remake.gpl"
+      },
+      {
+        "id": "redorb12",
+        "path": "./redorb12.gpl"
+      },
+      {
+        "id": "resurrect-64",
+        "path": "./resurrect-64.gpl"
+      },
+      {
+        "id": "ry-32-1x",
+        "path": "./ry-32-1x.png"
+      },
+      {
+        "id": "slso8",
+        "path": "./slso8.gpl"
+      },
+      {
+        "id": "sotc12",
+        "path": "./sotc12.gpl"
+      },
+      {
+        "id": "sunset-red",
+        "path": "./sunset-red.gpl"
+      },
+      {
+        "id": "sweetie-16",
+        "path": "./sweetie-16.gpl"
+      },
+      {
+        "id": "twemji-48",
+        "path": "./twemji-48.gpl"
+      },
+      {
+        "id": "twilight-5",
+        "path": "./twilight-5.gpl"
+      }
     ]
   }
 }
