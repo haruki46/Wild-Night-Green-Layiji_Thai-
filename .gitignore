@@ -1,0 +1,5 @@
+*.aseprite-extension
+__pycache__/
+.vscode/
+.idea/
+*.log
